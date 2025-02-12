@@ -1,6 +1,6 @@
 {
-    "name": "ca_valentines",
-    "short_name": "ca_valentines",
+    "name": "mysample",
+    "short_name": "mysample",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
